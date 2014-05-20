@@ -1,0 +1,25 @@
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\PerfectMatch.ap_ \
+ : D:\workspace\PerfectMatch\Phone\platforms\android\res\drawable\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\drawable-hdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\drawable-ldpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\drawable-mdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\drawable-xhdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\values\strings.xml \
+D:\workspace\PerfectMatch\Phone\platforms\android\res\xml\config.xml \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\res\drawable\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\_where-is-www.txt \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\cordova.js \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\cordova_plugins.js \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\css \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\img \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\index.html \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\js \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\css\index.css \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\img\logo.png \
+D:\workspace\PerfectMatch\Phone\platforms\android\assets\www\js\index.js \
+D:\workspace\PerfectMatch\Phone\platforms\android\ant-build\AndroidManifest.xml \
